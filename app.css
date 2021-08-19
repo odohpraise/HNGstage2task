@@ -1,13 +1,13 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #ceced1;
+    
 }
 .clearfix{clear: both;}
 
 .resume-box{
-    height: 1200px;
-    margin-top:10px;
+    height: auto;
+    /* margin-top:10px; */
     margin-bottom: 20px;
     background-color: #fff ;
 }
